@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "猫じゃらし",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-03-02T11:12:02.259697Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "猫じゃらし",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_猫じゃらし_RADWIMPS.txt"
+    }
+  ]
+}
